@@ -4,7 +4,7 @@
 # The server provides unsecured read access to dist/ and
 # read/write access through WebDAV to files/
 
-version: '3'
+#version: '3'
 
 services:
   server:
